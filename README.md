@@ -43,7 +43,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThomasPaulCJ&show_icons=false&hide=issues,contribs&hide_border=true&theme=default" width="400" />
   <br><br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ThomasPaulCJ&bg_color=ffffff&color=222222&line=4b6eaf&point=2d6cdf&hide_border=true" width="85%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThomasPaulCJ&bg_color=ffffff&color=222222&line=4b6eaf&point=2d6cdf&hide_border=true" width="85%" />
 </p>
 
 ---
