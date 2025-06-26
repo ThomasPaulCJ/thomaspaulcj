@@ -1,66 +1,59 @@
-<h1 align="center">Thomas Paul (CJ)</h1>
-<h3 align="center">Final Year BTech · AI & Data Science · Passionate about Building with AI</h3>
+<h1 align="center">Thomas Paul CJ</h1>
+<h3 align="center">BTech Final Year · AI & Data Science · Builder of AI-Driven Tools</h3>
 
-
----
 <p align="center">
-  🔍 Looking for roles in AI Engineering / Software Development (UK/EU)<br>
-  🛠️ Skilled in Python, Flask, React, LangGraph, ESPnet, LLM Workflows<br>
-  🎯 Actively building AI-powered apps with real-world impact
+  Focused on practical AI — from voice modulation and emotion detection to full-stack LLM applications.<br>
+  I build with intention, learn through iteration, and ship projects that solve real problems.
 </p>
 
+---
 
-🔭 Currently working on:  
-- Building AI-based mental wellness tools using **LangGraph**, **ESPnet**, and **Bolt AI**  
-- Integrating **Spotify + GPT** for mood-aware recommendation systems  
-- Crafting AI agents that feel human, useful, and fun
+### 🚀 Projects & Interests
 
-🌱 Actively learning:  
-- Voice modulation (ESPnet, Bark)
-- Local model orchestration (LM Studio, Ollama, GGUF)
-- LLM agent workflows (LangGraph, AutoGen)
+- 🧠 **AI Mental Wellness Companion**  
+  A generative AI bot that detects user emotion from journal entries and conversations. Suggests personalized music (Spotify), mindfulness exercises, and mood-aligned responses. Built using GPT-4, LangGraph, journaling workflows, and prompt engineering.
 
-🎮 Always gaming. Always building.  
+- 🔊 **Voice Modulator & Emotion Detection** *(WIP)*  
+  Built using ESPnet, this tool modifies vocal characteristics and detects emotional tone in real-time. Focused on expressive voice integration in AI agents and gaming systems.
 
-🧠 Fun fact: I love turning deep tech into usable experiences for real people.
+- 🎮 **Air Dash** – Gesture-Controlled Unity Game  
+  A 2D platformer controlled by real-time hand gestures using Python-based gesture recognition. Fuses computer vision with Unity to create immersive physical gameplay.
+
+- ⚙️ **Generative AI Tools & LLM Prototypes**  
+  Experimental utilities built using Bolt AI, LangGraph, and LM Studio — including local LLM orchestration, agent workflows, and rapid prototyping of AI interactivity.
 
 ---
 
-### ⚙️ Tech Stack
+### 🧰 Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESPnet-black?style=flat&logo=spacy" />
+  <img src="https://img.shields.io/badge/LangGraph-grey?style=flat&logo=langchain" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-### 🧩 Projects
-Here are a few things I’m working on or shipping soon:
-- 🧠 **AI Mental Wellness Bot** (LangGraph + GPT + journaling)
-- 🎧 **Mood-based Music Recommender** (Spotify API + LLMs)
-- 👾 **ESPnet voice mod + emotion detector** (WIP)
+### 📊 GitHub Activity
 
-Want to collaborate? DM me.
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thomaspaulcj&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=thomaspaulcj&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ThomasPaulCJ&show_icons=false&hide=issues,contribs&hide_border=true&theme=default" width="400" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ThomasPaulCJ&bg_color=ffffff&color=222222&line=4b6eaf&point=2d6cdf&hide_border=true" width="85%" />
 </p>
 
 ---
 
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/thomaspaulcj)  
-[![Mail](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:yourmail@example.com)
+### 🧩 About Me
+- 👨‍💻 Final Year BTech Student in AI & Data Science
+- 🧠 Passionate about building AI tools that go beyond theory
+- 🎮 Hardcore gamer with a developer’s mindset
+- 🚀 Focused on shipping meaningful AI experiences, not just code
 
 ---
 
-⚡ *“Code like a gamer. Ship like a dev. Think like a founder.”*
+> “Good code is invisible — great code becomes a product.”
