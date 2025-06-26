@@ -1,7 +1,14 @@
-<h1 align="center">Hey 👋 I'm CJ (Thomas Paul)</h1>
-<h3 align="center">Final Year BTech | AI & Data Science | Hardcore Gamer | Indie Builder</h3>
+<h1 align="center">Thomas Paul (CJ)</h1>
+<h3 align="center">Final Year BTech · AI & Data Science · Passionate about Building with AI</h3>
+
 
 ---
+<p align="center">
+  🔍 Looking for roles in AI Engineering / Software Development (UK/EU)<br>
+  🛠️ Skilled in Python, Flask, React, LangGraph, ESPnet, LLM Workflows<br>
+  🎯 Actively building AI-powered apps with real-world impact
+</p>
+
 
 🔭 Currently working on:  
 - Building AI-based mental wellness tools using **LangGraph**, **ESPnet**, and **Bolt AI**  
