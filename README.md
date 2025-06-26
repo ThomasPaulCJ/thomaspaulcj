@@ -13,14 +13,14 @@
 - 🧠 **AI Mental Wellness Companion**  
   A generative AI bot that detects user emotion from journal entries and conversations. Suggests personalized music (Spotify), mindfulness exercises, and mood-aligned responses. Built using GPT-4, LangGraph, journaling workflows, and prompt engineering.
 
+- 🖼️ **Identify.AI – Suspect Sketch Generator from Text**  
+  Uses Stable Diffusion to generate facial sketches based on textual descriptions of suspects. Built with a Flask backend and React frontend, it simulates law-enforcement-level workflows using GenAI to enhance identification processes.
+
 - 🔊 **Voice Modulator & Emotion Detection** *(WIP)*  
   Built using ESPnet, this tool modifies vocal characteristics and detects emotional tone in real-time. Focused on expressive voice integration in AI agents and gaming systems.
 
 - 🎮 **Air Dash** – Gesture-Controlled Unity Game  
   A 2D platformer controlled by real-time hand gestures using Python-based gesture recognition. Fuses computer vision with Unity to create immersive physical gameplay.
-
-- ⚙️ **Generative AI Tools & LLM Prototypes**  
-  Experimental utilities built using Bolt AI, LangGraph, and LM Studio — including local LLM orchestration, agent workflows, and rapid prototyping of AI interactivity.
 
 ---
 
