@@ -16,9 +16,6 @@
 - 🖼️ **Identify.AI – Suspect Sketch Generator from Text**  
   Converts natural language suspect descriptions into facial sketches using Stable Diffusion. Flask backend for SD API calls and a React frontend simulate a forensic UI for AI-driven investigation workflows.
 
-- 🔊 **Voice Modulator & Real-Time Voice Filters** *(WIP)*  
-  Tool in progress aimed at altering vocal tone for emotion mimicry or character voice simulation. Currently exploring open-source voice libraries and ESPnet-style models.
-
 - 🎮 **Air Dash** – Gesture-Controlled Unity Game  
   A Unity 2D action game controlled using Python-based hand gesture recognition via a webcam feed. Fuses ML with game physics to create a unique physical interaction experience.
 
