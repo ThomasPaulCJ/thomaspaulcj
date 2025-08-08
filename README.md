@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESPnet-black?style=flat&logo=spacy" />
   <img src="https://img.shields.io/badge/LangGraph-grey?style=flat&logo=langchain" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </p>
