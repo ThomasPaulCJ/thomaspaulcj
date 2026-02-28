@@ -1,25 +1,29 @@
 <div align="center">
-[![Portfolio](https://img.shields.io/badge/Portfolio-thomaspaulcj.netlify.app-00ff88?style=for-the-badge&logo=netlify&logoColor=white)](https://thomaspaulcj.netlify.app)
-<!-- NAME as static text - clean and reliable -->
+
+<!-- NAME -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=99999&pause=99999&color=00FF88&center=true&vCenter=true&width=700&height=90&lines=Thomas+Paul+CJ" alt="Thomas Paul CJ" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=99999&pause=99999&color=888888&center=true&vCenter=true&width=700&height=28&lines=AI+%26+Data+Science+Engineer+%7C+BTech+Final+Year+%7C+Kerala%2C+India" alt="subtitle" />
 
 <br/>
 
-<!-- CYCLING LINES - all complete sentences -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=680&lines=Building+LLM+apps+that+solve+real+problems;Computer+Vision+%7C+Full-Stack+AI+%7C+Game+Dev;From+gesture-controlled+games+to+forensic+AI;Shipping+products%2C+not+just+code." alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- SOCIAL BADGES - icon only, no names -->
-<a href="https://www.linkedin.com/in/thomaspaulcj/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!-- PORTFOLIO BADGE -->
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-thomaspaulcj.netlify.app-00ff88?style=for-the-badge&logoColor=white)](https://thomaspaulcj.netlify.app)
+
+<br/><br/>
+
+<!-- SOCIAL BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomaspaulcj/)
 &nbsp;
-<a href="https://www.instagram.com/thomxspaul/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thomxspaul/)
 &nbsp;
-<a href="mailto:thomaspaulcj921@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomaspaulcj921@gmail.com)
 &nbsp;
-<a href="https://github.com/ThomasPaulCJ"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThomasPaulCJ)
 
 </div>
 
