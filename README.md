@@ -1,19 +1,18 @@
 <div align="center">
 
-<!-- HEADER using readme-typing-svg as the de-facto banner (GitHub-safe) -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&pause=99999&color=00FF88&center=true&vCenter=true&width=700&height=80&lines=Sup!+I am+Thomas" alt="Sup! I am Thomas" />
-</h1>
+<!-- NAME as static text - clean and reliable -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=99999&pause=99999&color=00FF88&center=true&vCenter=true&width=700&height=90&lines=Thomas+Paul+CJ" alt="Thomas Paul CJ" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=99999&color=FFFFFF&center=true&vCenter=true&width=600&height=30&lines=AI+%26+Data+Science+Engineer+%7C+BTech+Final+Year" alt="subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=99999&pause=99999&color=888888&center=true&vCenter=true&width=700&height=28&lines=AI+%26+Data+Science+Engineer+%7C+BTech+Final+Year+%7C+Kerala%2C+India" alt="subtitle" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+AI+tools+that+matter+%F0%9F%A7%A0;LLM+Apps+%7C+Computer+Vision+%7C+Full+Stack;Shipping+real+products%2C+not+just+code+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- CYCLING LINES - all complete sentences -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=680&lines=Building+LLM+apps+that+solve+real+problems;Computer+Vision+%7C+Full-Stack+AI+%7C+Game+Dev;From+gesture-controlled+games+to+forensic+AI;Shipping+products%2C+not+just+code." alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- CLEAN SOCIAL LINKS - icons only with minimal labels -->
+<!-- SOCIAL BADGES - icon only, no names -->
 <a href="https://www.linkedin.com/in/thomaspaulcj/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
 <a href="https://www.instagram.com/thomxspaul/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
