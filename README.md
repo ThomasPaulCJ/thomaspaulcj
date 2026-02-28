@@ -1,54 +1,118 @@
-<h1 align="center">Thomas Paul CJ</h1>
-<h3 align="center">BTech Final Year · AI & Data Science · Builder of AI-Driven Tools</h3>
+<div align="center">
 
-<p align="center">
-  Focused on practical AI — from voice modulation and emotion detection to full-stack LLM applications.<br>
-  I build with intention, learn through iteration, and ship projects that solve real problems.
-</p>
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:00ff88,100:0f0f0f&height=200&section=header&text=Thomas%20Paul%20CJ&fontSize=52&fontColor=00ff88&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=58&descSize=18&descColor=ffffff&animation=fadeIn" width="100%"/>
 
----
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+AI+tools+that+matter+%F0%9F%A7%A0;LLM+Apps+%7C+Computer+Vision+%7C+Full+Stack;Final+Year+BTech+%E2%80%94+AI+%26+Data+Science;Shipping+real+products%2C+not+just+code+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-### 🚀 Projects & Interests
+<br/>
 
-- 🧠 **AI Mental Wellness Companion**  
-  A conversational wellness agent that detects user emotion from journal entries or chat using LLMs via Bolt AI. Recommends mood-aligned music (Spotify), mental health exercises, and journaling prompts. Stack: Bolt AI, LangGraph, Flask, React.
+<!-- SOCIAL BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas_Paul_CJ-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomaspaulcj/)
+[![Instagram](https://img.shields.io/badge/Instagram-@thomxspaul-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thomxspaul/)
+[![GitHub](https://img.shields.io/badge/GitHub-ThomasPaulCJ-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThomasPaulCJ)
 
-- 🖼️ **Identify.AI – Suspect Sketch Generator from Text**  
-  Converts natural language suspect descriptions into facial sketches using Stable Diffusion. Flask backend for SD API calls and a React frontend simulate a forensic UI for AI-driven investigation workflows.
+<br/>
 
-- 🎮 **Air Dash** – Gesture-Controlled Unity Game  
-  A Unity 2D action game controlled using Python-based hand gesture recognition via a webcam feed. Fuses ML with game physics to create a unique physical interaction experience.
-
----
-
-### 🧰 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-### 📊 GitHub Activity
+<!-- TERMINAL ABOUT ME -->
+```bash
+$ whoami
+> Thomas Paul CJ — BTech Final Year @ AI & Data Science
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThomasPaulCJ&show_icons=false&hide=issues,contribs&hide_border=true&theme=default" width="400" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThomasPaulCJ&bg_color=ffffff&color=222222&line=4b6eaf&point=2d6cdf&hide_border=true" width="85%" />
-</p>
+$ cat about.txt
+> Passionate about AI that ships.
+> I build tools that solve real problems — from LLM agents to gesture-controlled games.
+> Currently exploring: LangGraph, Stable Diffusion pipelines, multimodal AI.
+
+$ ls skills/
+> Python   Flask   React   LangChain   Stable Diffusion   Unity   C   Java   Figma
+
+$ echo $CURRENT_FOCUS
+> "Building AI that feels alive — not just functional."
+```
 
 ---
 
-### 🧩 About Me
-- 👨‍💻 Final Year BTech Student in AI & Data Science
-- 🧠 Passionate about building AI tools that go beyond theory
-- 🎮 Hardcore gamer with a developer’s mindset
-- 🚀 Focused on shipping meaningful AI experiences, not just code
+## ⚡ Featured Projects
+
+<div align="center">
+
+| 🧠 Project | 🛠 Stack | ✨ What it does |
+|---|---|---|
+| **AI Mental Wellness Companion** | `LangGraph` `Flask` `React` `Bolt AI` | Detects emotion from journal entries → recommends Spotify playlists + mental health exercises |
+| **Identify.AI – Suspect Sketch Generator** | `Stable Diffusion` `Flask` `React` | Turns natural language descriptions into forensic facial sketches |
+| **Air Dash – Gesture Game** | `Unity 2D` `Python` `MediaPipe` | A physics-based game fully controlled by hand gestures via webcam |
+
+</div>
 
 ---
 
-> “Good code is invisible — great code becomes a product.”
+## 🧰 Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ThomasPaulCJ&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&hide=issues,contribs" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasPaulCJ&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" height="165"/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ThomasPaulCJ&theme=terminal&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88)](https://git.io/streak-stats)
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThomasPaulCJ&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🧩 Beyond the Code
+
+```python
+thomas = {
+    "role"     : "Final Year BTech — AI & Data Science",
+    "passion"  : ["LLMs", "Computer Vision", "Game Dev"],
+    "currently": "Building AI that feels alive, not just functional",
+    "hobbies"  : ["Hardcore Gaming 🎮", "Tinkering with models", "UI/UX experiments"],
+    "motto"    : "Good code is invisible — great code becomes a product."
+}
+```
+
+---
+
+<div align="center">
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:00ff88,100:0f0f0f&height=120&section=footer" width="100%"/>
+
+*"Good code is invisible — great code becomes a product."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=ThomasPaulCJ&color=00ff88&style=flat-square&label=Profile+Views)
+
+</div>
