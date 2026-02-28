@@ -2,7 +2,7 @@
 
 <!-- HEADER using readme-typing-svg as the de-facto banner (GitHub-safe) -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&pause=99999&color=00FF88&center=true&vCenter=true&width=700&height=80&lines=Thomas+Paul+CJ" alt="Sup! I am Thomas" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&pause=99999&color=00FF88&center=true&vCenter=true&width=700&height=80&lines=Sup!+I am+Thomas" alt="Sup! I am Thomas" />
 </h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=99999&color=FFFFFF&center=true&vCenter=true&width=600&height=30&lines=AI+%26+Data+Science+Engineer+%7C+BTech+Final+Year" alt="subtitle" />
