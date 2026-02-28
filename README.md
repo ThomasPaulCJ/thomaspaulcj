@@ -1,5 +1,5 @@
 <div align="center">
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-thomaspaulcj.netlify.app-00ff88?style=for-the-badge&logo=netlify&logoColor=white)](https://thomaspaulcj.netlify.app)
 <!-- NAME as static text - clean and reliable -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=99999&pause=99999&color=00FF88&center=true&vCenter=true&width=700&height=90&lines=Thomas+Paul+CJ" alt="Thomas Paul CJ" />
 
