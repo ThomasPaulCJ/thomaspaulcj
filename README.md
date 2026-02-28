@@ -1,60 +1,31 @@
 <div align="center">
 
-<!-- SELF-HOSTED SVG BANNER -->
-<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="50%" style="stop-color:#0a1628"/>
-      <stop offset="100%" style="stop-color:#0d1117"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-  <rect width="900" height="200" fill="url(#bg)"/>
-  <!-- grid lines -->
-  <line x1="0" y1="40" x2="900" y2="40" stroke="#00ff8811" stroke-width="1"/>
-  <line x1="0" y1="80" x2="900" y2="80" stroke="#00ff8811" stroke-width="1"/>
-  <line x1="0" y1="120" x2="900" y2="120" stroke="#00ff8811" stroke-width="1"/>
-  <line x1="0" y1="160" x2="900" y2="160" stroke="#00ff8811" stroke-width="1"/>
-  <line x1="180" y1="0" x2="180" y2="200" stroke="#00ff8811" stroke-width="1"/>
-  <line x1="360" y1="0" x2="360" y2="200" stroke="#00ff8811" stroke-width="1"/>
-  <line x1="540" y1="0" x2="540" y2="200" stroke="#00ff8811" stroke-width="1"/>
-  <line x1="720" y1="0" x2="720" y2="200" stroke="#00ff8811" stroke-width="1"/>
-  <!-- accent bar -->
-  <rect x="0" y="0" width="4" height="200" fill="#00ff88"/>
-  <rect x="896" y="0" width="4" height="200" fill="#00ff88"/>
-  <!-- name -->
-  <text x="450" y="95" font-family="monospace" font-size="42" font-weight="bold" fill="#00ff88" text-anchor="middle" filter="url(#glow)">Thomas Paul CJ</text>
-  <!-- subtitle -->
-  <text x="450" y="135" font-family="monospace" font-size="16" fill="#ffffff99" text-anchor="middle">AI &amp; Data Science Engineer  |  BTech Final Year</text>
-  <!-- decorative dots -->
-  <circle cx="30" cy="30" r="3" fill="#00ff88" opacity="0.6"/>
-  <circle cx="870" cy="30" r="3" fill="#00ff88" opacity="0.6"/>
-  <circle cx="30" cy="170" r="3" fill="#00ff88" opacity="0.6"/>
-  <circle cx="870" cy="170" r="3" fill="#00ff88" opacity="0.6"/>
-</svg>
+<!-- HEADER using readme-typing-svg as the de-facto banner (GitHub-safe) -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&pause=99999&color=00FF88&center=true&vCenter=true&width=700&height=80&lines=Thomas+Paul+CJ" alt="Thomas Paul CJ" />
+</h1>
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+AI+tools+that+matter+%F0%9F%A7%A0;LLM+Apps+%7C+Computer+Vision+%7C+Full+Stack;Shipping+real+products%2C+not+just+code+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=99999&color=FFFFFF&center=true&vCenter=true&width=600&height=30&lines=AI+%26+Data+Science+Engineer+%7C+BTech+Final+Year" alt="subtitle" />
 
 <br/>
 
-<!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas_Paul_CJ-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomaspaulcj/)
-[![Instagram](https://img.shields.io/badge/Instagram-@thomxspaul-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thomxspaul/)
-[![Gmail](https://img.shields.io/badge/Gmail-thomaspaulcj921-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomaspaulcj921@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ThomasPaulCJ-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThomasPaulCJ)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+AI+tools+that+matter+%F0%9F%A7%A0;LLM+Apps+%7C+Computer+Vision+%7C+Full+Stack;Shipping+real+products%2C+not+just+code+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- CLEAN SOCIAL LINKS - icons only with minimal labels -->
+<a href="https://www.linkedin.com/in/thomaspaulcj/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="https://www.instagram.com/thomxspaul/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:thomaspaulcj921@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+&nbsp;
+<a href="https://github.com/ThomasPaulCJ"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
 ---
 
-<!-- TERMINAL ABOUT ME -->
 ```bash
 $ whoami
 > Thomas Paul CJ — BTech Final Year @ AI & Data Science
@@ -142,12 +113,9 @@ thomas = {
 
 <div align="center">
 
-<!-- FOOTER SVG -->
-<svg width="100%" height="60" viewBox="0 0 900 60" xmlns="http://www.w3.org/2000/svg">
-  <rect width="900" height="60" fill="#0d1117"/>
-  <line x1="0" y1="1" x2="900" y2="1" stroke="#00ff88" stroke-width="2"/>
-  <text x="450" y="38" font-family="monospace" font-size="13" fill="#ffffff66" text-anchor="middle">"Good code is invisible — great code becomes a product."</text>
-</svg>
+*"Good code is invisible — great code becomes a product."*
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ThomasPaulCJ&color=00ff88&style=flat-square&label=Profile+Views)
 
